@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-left: 50px;
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #B1D9DB;
+}
